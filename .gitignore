@@ -1,7 +1,4 @@
 
-mconfig.json
-ormconfig.json
-ormconfig.js
 *.lock
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
@@ -27,3 +24,7 @@ ormconfig.js
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+mconfig.json
+ormconfig.json
+ormconfig.js
